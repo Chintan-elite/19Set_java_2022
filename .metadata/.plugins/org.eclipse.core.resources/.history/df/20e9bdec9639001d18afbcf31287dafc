@@ -1,0 +1,17 @@
+package oops;
+
+class P
+{
+	P()
+	{
+		System.out.println("Running p class constructor...");
+	}
+}
+
+public class O005_constructorChaining {
+	public static void main(String[] args) {
+		
+		
+		
+	}
+}

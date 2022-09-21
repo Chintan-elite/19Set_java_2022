@@ -1,0 +1,33 @@
+package oops;
+
+class P
+{
+	P()
+	{
+		System.out.println("Running p class constructor...");
+	}
+}
+
+class Q
+{
+	Q()
+	{
+		System.out.println("Running q class constructor...");
+	}
+}
+
+class R extends Q
+{
+	R()
+	{
+		System.out.println("Running R class constructor...");
+	}
+}
+
+public class O005_constructorChaining {
+	public static void main(String[] args) {
+		
+		R a = new R();
+		
+	}
+}

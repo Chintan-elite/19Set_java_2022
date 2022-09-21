@@ -1,0 +1,21 @@
+package oops;
+
+class A
+{
+	int a = 10;
+	
+	public void display()
+	{
+		System.out.println("running display...");
+	}
+}
+
+
+public class O004_InheritanceDemo {
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+}
