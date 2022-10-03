@@ -3,4 +3,15 @@
     <fullyQualifiedTypeName name="oops.Pen"/>
     <fullyQualifiedTypeName name="oops.Demo"/>
     <fullyQualifiedTypeName name="oops.Student"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.Method"/>
+    <fullyQualifiedTypeName name="oops.B"/>
+    <fullyQualifiedTypeName name="oops.A"/>
+    <fullyQualifiedTypeName name="oops.R"/>
+    <fullyQualifiedTypeName name="oops.O006_Modifier"/>
+    <fullyQualifiedTypeName name="oops.Emp"/>
+    <fullyQualifiedTypeName name="oops.MCalc"/>
+    <fullyQualifiedTypeName name="oops.Calc1"/>
+    <fullyQualifiedTypeName name="oops.B1"/>
+    <fullyQualifiedTypeName name="oops.Abs"/>
+    <fullyQualifiedTypeName name="oops.AbsImpl"/>
 </qualifiedTypeNameHistroy>

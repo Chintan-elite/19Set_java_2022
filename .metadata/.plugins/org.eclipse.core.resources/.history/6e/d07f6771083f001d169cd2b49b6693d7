@@ -1,0 +1,29 @@
+package oops;
+
+abstract class Abs
+{
+	public abstract void display();
+}
+
+class AbsImpl extends Abs
+{
+
+	@Override
+	public void display() {
+		System.out.println("running display");
+		
+	}
+	
+}
+
+public class O009_abstractDemo {
+	public static void main(String[] args) {
+		
+		Abs a = new Abs();
+		
+		
+		
+		
+		
+	}
+}

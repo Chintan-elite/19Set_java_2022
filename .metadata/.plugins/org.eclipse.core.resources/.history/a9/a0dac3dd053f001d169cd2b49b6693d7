@@ -1,0 +1,19 @@
+package oops;
+
+class Calc1
+{
+	public void add(int a, int b)
+	{
+		int r  =a+b;
+		System.out.println("Addion is : "+r);
+	}
+}
+public class O008_OverLoading {
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+	}
+}

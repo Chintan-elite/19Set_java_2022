@@ -1,0 +1,24 @@
+package oops;
+
+class A1
+{
+	public void disaply()
+	{
+		System.out.println("running display of a");
+	}
+}
+
+class B1 extends A1
+{
+	
+}
+
+public class O008_Overiding {
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+	}
+}

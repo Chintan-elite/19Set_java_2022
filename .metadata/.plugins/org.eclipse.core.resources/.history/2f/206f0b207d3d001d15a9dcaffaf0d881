@@ -1,0 +1,60 @@
+package oops;
+
+class MCalc
+{
+	public void display()
+	{
+		System.out.println("running display...");
+	}
+	
+	public void add(int a, int b)
+	{
+		System.out.println("Addition is : "+(a+b));
+	}
+	
+	public int square(int i)
+	{
+		int sq = i*i;
+		return sq;
+	}
+	
+	public void addArray(int a[])
+	{
+		int sum = 0;
+		for (int i = 0; i < a.length; i++) {
+			sum = sum + a[i];
+		}
+		System.out.println("Addition of an array is : "+sum);
+	}
+	
+	public void revArray(int a[])
+	{
+		int k[] = new int[a.length];
+		int c  =0;
+		for(int i=a.length-1;i>=0;i--)
+		{
+			k[c] = a[i];
+			c++;
+		}
+		
+		return k;
+	}
+}
+
+public class P002_MethodManipulation {
+	public static void main(String[] args) {
+		
+		
+		MCalc m = new MCalc();
+		m.display();
+		m.add(10, 20);
+		int r = m.square(20);
+		System.out.println("square is : "+r);
+		System.out.println(m.square(2));
+		
+		int a[] = {10,20,30,40,50};
+		m.addArray(a);
+		
+		m.revArray(a);
+	}
+}

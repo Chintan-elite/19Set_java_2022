@@ -1,0 +1,12 @@
+package oops;
+
+interface I1
+{
+	public void display();
+}
+
+public class O010_InterfaceDemo {
+	public static void main(String[] args) {
+		
+	}
+}

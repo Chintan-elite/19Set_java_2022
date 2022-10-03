@@ -1,0 +1,32 @@
+package oops;
+
+class MCalc
+{
+	public void display()
+	{
+		System.out.println("running display...");
+	}
+	
+	public void add(int a, int b)
+	{
+		System.out.println("Addition is : "+(a+b));
+	}
+	
+	public void square(int i)
+	{
+		int sq = i*i;
+	}
+}
+
+public class P002_MethodManipulation {
+	public static void main(String[] args) {
+		
+		
+		MCalc m = new MCalc();
+		m.display();
+		m.add(10, 20);
+		m.square(20);
+		
+		
+	}
+}
