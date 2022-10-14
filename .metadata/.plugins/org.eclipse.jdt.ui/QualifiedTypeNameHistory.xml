@@ -14,4 +14,5 @@
     <fullyQualifiedTypeName name="oops.B1"/>
     <fullyQualifiedTypeName name="oops.Abs"/>
     <fullyQualifiedTypeName name="oops.AbsImpl"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
