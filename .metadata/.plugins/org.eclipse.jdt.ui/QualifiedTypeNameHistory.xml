@@ -15,4 +15,7 @@
     <fullyQualifiedTypeName name="oops.Abs"/>
     <fullyQualifiedTypeName name="oops.AbsImpl"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

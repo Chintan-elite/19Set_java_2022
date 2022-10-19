@@ -1,0 +1,13 @@
+package string;
+
+public class S004_StringSb {
+	public static void main(String[] args) {
+		
+		
+		StringBuffer sb = new StringBuffer("hello");
+		sb.append("Tops");
+		
+		
+		
+	}
+}

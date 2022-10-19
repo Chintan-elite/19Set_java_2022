@@ -48,7 +48,7 @@ public class S002_StringMethods {
 		
 		for (int i = 0; i < b.length; i++) {
 			
-			System.out.println(b[i]);
+			System.out.print(b[i]);
 		}
 	}
 }
