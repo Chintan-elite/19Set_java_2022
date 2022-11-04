@@ -21,4 +21,6 @@
     <fullyQualifiedTypeName name="impclass.Sample"/>
     <fullyQualifiedTypeName name="impclass.Demo"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="basic.Pen"/>
+    <fullyQualifiedTypeName name="basic.Student"/>
 </qualifiedTypeNameHistroy>
