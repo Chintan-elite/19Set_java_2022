@@ -16,7 +16,7 @@ public class C004_Treeset {
 		set.add("ios");
 		set.add("sql");
 		
-		Iterator<String> itr = set.descendingIterator();
+		Iterator<String> itr = set.iterator();
 		while(itr.hasNext())
 		{
 			System.out.println(itr.next());
