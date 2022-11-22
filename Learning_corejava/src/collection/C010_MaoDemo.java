@@ -7,8 +7,6 @@ import java.util.Map.Entry;
 
 public class C010_MaoDemo {
 	public static void main(String[] args) {
-		
-		
 		HashMap<Integer, String> map = new HashMap<Integer, String>();
 		map.put(10, "java");
 		map.put(20, "php");
@@ -24,8 +22,6 @@ public class C010_MaoDemo {
 //		{
 //			System.out.println(itr.next());
 //		}
-		
-		
 		for(Entry<Integer, String> m : map.entrySet())
 		{
 			System.out.println(m.getKey() +" : "+m.getValue());
