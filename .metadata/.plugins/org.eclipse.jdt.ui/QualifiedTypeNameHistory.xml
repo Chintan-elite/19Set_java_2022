@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="oops.B"/>
     <fullyQualifiedTypeName name="oops.A"/>
     <fullyQualifiedTypeName name="oops.R"/>
     <fullyQualifiedTypeName name="oops.O006_Modifier"/>
@@ -54,10 +53,11 @@
     <fullyQualifiedTypeName name="thread.Td2"/>
     <fullyQualifiedTypeName name="thread.Sample"/>
     <fullyQualifiedTypeName name="thread.Th1"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="thread.Customer"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="thread.Account"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="thread.Calc"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
