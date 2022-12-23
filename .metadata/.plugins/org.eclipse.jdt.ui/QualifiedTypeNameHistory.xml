@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="oops.A"/>
-    <fullyQualifiedTypeName name="oops.R"/>
-    <fullyQualifiedTypeName name="oops.O006_Modifier"/>
-    <fullyQualifiedTypeName name="oops.Emp"/>
     <fullyQualifiedTypeName name="oops.MCalc"/>
     <fullyQualifiedTypeName name="oops.Calc1"/>
     <fullyQualifiedTypeName name="oops.B1"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="thread.Calc"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 </qualifiedTypeNameHistroy>
