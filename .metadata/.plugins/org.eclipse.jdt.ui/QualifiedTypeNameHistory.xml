@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="oops.MCalc"/>
-    <fullyQualifiedTypeName name="oops.Calc1"/>
     <fullyQualifiedTypeName name="oops.B1"/>
     <fullyQualifiedTypeName name="oops.Abs"/>
     <fullyQualifiedTypeName name="oops.AbsImpl"/>
@@ -51,13 +49,15 @@
     <fullyQualifiedTypeName name="thread.Th1"/>
     <fullyQualifiedTypeName name="thread.Customer"/>
     <fullyQualifiedTypeName name="thread.Account"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="thread.Calc"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="library.Opration"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.sql.Statement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 </qualifiedTypeNameHistroy>

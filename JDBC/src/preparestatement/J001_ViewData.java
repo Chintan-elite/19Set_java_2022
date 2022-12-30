@@ -1,12 +1,13 @@
-package com;
+package preparestatement;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class J001_FirstConnection {
+public class J001_ViewData {
 	public static void main(String[] args) {
 		
 		
@@ -28,10 +29,10 @@ public class J001_FirstConnection {
 			
 			
 			//create statement
-			Statement st = cn.createStatement();
+			PreparedStatement ps = cn.prepareStatement("select * from emp");
 			
 			//execute query
-			ResultSet rs =  st.executeQuery("select * from emp");
+			ResultSet rs =  ps.executeQuery();
 			
 			//process resultset
 			while(rs.next())
